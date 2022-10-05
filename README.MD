@@ -95,4 +95,66 @@
     * [Font Playground](https://play.typedetail.com/) - Play with variable fonts.
     * [Font Anything](https://app.typeanything.io/) - Type Anything is a free and awesome typography tool to create and test font combinations for your projects.
 
+8. **COLORS AND TOOLS**
+    * [Coolors](https://coolors.co/) - Generate or browse beautiful color combinations for your designs.
 
+    * [0to255](https://www.0to255.com/) - A color tool that makes it easy to lighten and darken colors.
+    * [ColorBox](https://colorbox.io/) - Create amazing color sets superfast.
+    * [color x color](https://colorcolor.in/) - A tool to create accessible color systems for UIs
+    * [Colors and Fonts](https://www.colorsandfonts.com/) - Find colors and typography combinations ready to copy paste in one click.
+    * [ColorSpace](https://mycolor.space/) - Generate nice Color Palettes.
+    * [CSS Gradient](https://cssgradient.io/) - Free css gradient generator tool.
+    * [uiGradients](https://github.com/iamismile/web-dev-resources/blob/main/uigradients.com) - A handpicked collection of beautiful color gradients for designers and developers.
+    * [Picular](https://picular.co/) - The color of anything.
+    * [Colorable](https://colorable.jxnblk.com/) - Choose font colors based on your background color.
+    * [Happy Hues](https://www.happyhues.co/) - Curated colors in context.
+
+9. **IMAGE RESOURCES**
+    * [Unsplash](https://unsplash.com/) - Free images and photos.
+
+    * [Pexels](https://www.pexels.com/) - Free stock photos.
+    * [Pixabay](https://pixabay.com/) - Free image or video.
+    * [LOADING.IO](https://loading.io/) - Free spinner for your projects.
+    * [LottieFiles](https://lottiefiles.com/) - LottieFiles is a collection of animations designed for Lottie - gone are the days of bugging your developer.
+    * [removebg](https://www.remove.bg/) - Remove Image Background.
+    * [Remove Photo Data](https://github.com/iamismile/web-dev-resources/blob/main/removephotodata.com) - Remove personal data from photos before sharing them on the internet.
+    * [befunky](https://www.befunky.com/) - BeFunky's all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
+
+10. **ILLUSTRATIONS**
+    * [unDraw](https://undraw.co/illustrations) - Browse to find the illustrations that fit your needs and click to download.
+
+    * [manypixels](https://www.manypixels.co/gallery/) - Free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more.
+    * [DrawKit](https://www.drawkit.io/) - Hand-drawn vector illustration and icon resources, perfect for your next project.
+    * [freepik](https://www.freepik.com/) - Free graphic resources.
+
+11. **ICONS**
+    * [Ionicons](https://ionicons.com/) - Open-Sourced and MIT licensed icon pack.
+
+    * [Font Awesome](https://fontawesome.com/) - Vector icons and social logos.
+    * [Material Icons](https://material.io/resources/icons/?style=baseline) - Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products for Android, iOS, and web.
+    * [Icones](https://icones.js.org/) - Icons collection.
+    * [icons8](https://icons8.com/icons) - Download free icons in PNG and SVG.
+    * [flaticon](https://www.flaticon.com/) - Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+    * [Tabler Icons](https://tablericons.com/) - Fully customizable free SVG icons.
+    * [icofont](https://icofont.com/icons) - 2100+ free icons to spice up your creative designs.
+    * [Simple Icons](https://simpleicons.org/) - 1463 Free SVG icons for popular brands.
+    * [Get Emoji](https://getemoji.com/) - ✂️ Copy and ? Paste Emoji ?.
+    * [Ikonate](https://ikonate.com/) - Customizable icons pack.
+    * [useAnimations](https://useanimations.com/) - Free animated icons.
+
+12. **GENERATORS**
+    * [Lorem Ipsum](https://loremipsum.io/) - Lorem Ipsum generator.
+    * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon generator
+    * [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
+    * [Meta Tags](https://metatags.io/) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
+    * [Clippy] - CSS clip-path maker.
+    * [i Hate Regex] - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
+    * [Regex101] - Online regex tester.
+    * [Web Code Tools] - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
+    * [Carbon] - Create and share beautiful images of your source .
+    * [CSS Grid Generator] - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+    * [CSS Scroll Shadows] - Adjust the controls (?) and see the CSS scroll shadows change.
+    * [CSS Shadow Generator] - Make a smooth shadow.
+    * [Haikei] - Generate unique SVG design assets.
+    transform - Transform | A polyglot web converter.
+    * [Perflink | JS Benchmarks] - JavaScript performance benchmarks you can share via URL.
