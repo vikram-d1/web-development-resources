@@ -1,5 +1,7 @@
 ### <span style="color:#FAFA33;"> This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.</span>
+<br>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJWO0_6Klu8N-OciWy-ealND59N_niT581Qg&usqp=CAU" height=200px width=300px style="margin-left: 25%">
 
 --- 
 
