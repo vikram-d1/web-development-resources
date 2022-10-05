@@ -1,20 +1,22 @@
-### This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.
+### <span style="color:#FAFA33;"> This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.</span>
 
 
----
+--- 
+
+<span style="font-size: 16px; color:#fff">
 
 <!-- List start -->
 
-1. **DEVELOPER ROADMAPS**
+1. **DEVELOPER ROADMAPS** 
 
     * [FrontEnd](https://roadmap.sh/frontend)&nbsp; - Frontend Development Roadmap.
 
     * [BackEnd](https://roadmap.sh/backend)&nbsp; - Backend Development Roadmap.
     * [React](https://roadmap.sh/react)&nbsp; - React Development Roadmap.
     * [Android](https://roadmap.sh/android)&nbsp; - Android Development Roadmap.
-    * [DevOps](https://roadmap.sh/devops)&nbsp; - DevOps Roadmap. 
+    * [DevOps](https://roadmap.sh/devops)&nbsp; - DevOps Roadmap. <br><br>
 
-2. **DOCUMENTATIONS AND CHEATSHEETS**
+2. **DOCUMENTATIONS AND CHEATSHEETS** 
 
     * [MDN Web Docs](https://developer.mozilla.org/en-US/) - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 
@@ -32,6 +34,7 @@
     * [CSS3, Media Queries and CheatSheets](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
     * [SEO CheatSheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
     * [BootStrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
+    <br><br>
 
 3. **DESIGN TOOLS**
 
@@ -41,6 +44,7 @@
     * [Sketch](https://www.sketch.com/) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
     * [Whimsical](https://whimsical.com/) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
     * [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
+    <br><br>
 
 4. **HOW THE WEB WORKS**
     * [How the internet works video](https://www.youtube.com/watch?v=x3c1ih2NJEg) - How does the Internet Works?
@@ -48,6 +52,7 @@
     * [How the internet works brief video](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) - A brief explanations on, how does the Internet works? Sheet.
     * [DNS](https://howdns.works/) - How DNS works?
     * [HTTPS](https://howhttps.works/) - How HTTPS works?
+    <br><br>
 
 5. **HTML AND CSS**
     * [FreeCodeCamp](https://www.freecodecamp.org/learn) - Free course to learn Web Development.
@@ -77,6 +82,7 @@
     * [CSS Formatter](https://www.cleancss.com/css-beautify/) - Online CSS Formatter, CSS Beautifier.
     * [Placeholder](https://placeholder.com/) - How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.
     * [DevProjects](https://www.codementor.io/projects/html_css) - Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.
+    <br><br>
 
 6. **FRONT END CHALLENGES OR SKILLS**
     * [CodePen](https://codepen.io/) - Build, share, and learn JavaScript, CSS, and HTML with our online code editor.
@@ -85,6 +91,7 @@
     * [Good Code](https://moeminm.github.io/goodcode/) - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
     * [codier](https://codier.io/) - Explore and attempt front-end coding challenges.
     * [CSSBattle](https://cssbattle.dev/) - CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
+    <br><br>
 
 7. **FONTS AND TYPOGRAPHY**
     * [Google Fonts](https://fonts.google.com/) - The #1 resource for free and easy-to-use webfonts.
@@ -94,6 +101,7 @@
     * [FontPair](https://fontpair.co/) - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
     * [Font Playground](https://play.typedetail.com/) - Play with variable fonts.
     * [Font Anything](https://app.typeanything.io/) - Type Anything is a free and awesome typography tool to create and test font combinations for your projects.
+    <br><br>
 
 8. **COLORS AND TOOLS**
     * [Coolors](https://coolors.co/) - Generate or browse beautiful color combinations for your designs.
@@ -108,6 +116,7 @@
     * [Picular](https://picular.co/) - The color of anything.
     * [Colorable](https://colorable.jxnblk.com/) - Choose font colors based on your background color.
     * [Happy Hues](https://www.happyhues.co/) - Curated colors in context.
+    <br><br>
 
 9. **IMAGE RESOURCES**
     * [Unsplash](https://unsplash.com/) - Free images and photos.
@@ -119,6 +128,7 @@
     * [removebg](https://www.remove.bg/) - Remove Image Background.
     * [Remove Photo Data](https://github.com/iamismile/web-dev-resources/blob/main/removephotodata.com) - Remove personal data from photos before sharing them on the internet.
     * [befunky](https://www.befunky.com/) - BeFunky's all-in-one online Creative Platform has everything you need to easily edit photos, create graphic designs, and make photo collages.
+    <br><br>
 
 10. **ILLUSTRATIONS**
     * [unDraw](https://undraw.co/illustrations) - Browse to find the illustrations that fit your needs and click to download.
@@ -126,6 +136,7 @@
     * [manypixels](https://www.manypixels.co/gallery/) - Free illustrations to power up your projects. Use them in a commercial or non-commercial way for your landing pages, blog posts, email newsletters, social media graphics and more.
     * [DrawKit](https://www.drawkit.io/) - Hand-drawn vector illustration and icon resources, perfect for your next project.
     * [freepik](https://www.freepik.com/) - Free graphic resources.
+    <br><br>
 
 11. **ICONS**
     * [Ionicons](https://ionicons.com/) - Open-Sourced and MIT licensed icon pack.
@@ -141,20 +152,167 @@
     * [Get Emoji](https://getemoji.com/) - ✂️ Copy and ? Paste Emoji ?.
     * [Ikonate](https://ikonate.com/) - Customizable icons pack.
     * [useAnimations](https://useanimations.com/) - Free animated icons.
+    <br><br>
 
 12. **GENERATORS**
     * [Lorem Ipsum](https://loremipsum.io/) - Lorem Ipsum generator.
+
     * [RealFaviconGenerator](https://realfavicongenerator.net/) - Favicon generator
     * [Favicon Maker](https://formito.com/tools/favicon) - Free Favicon maker.
     * [Meta Tags](https://metatags.io/) - Meta Tags generator, preview how your webpage will look on Google, Facebook, Twitter and more!
-    * [Clippy] - CSS clip-path maker.
-    * [i Hate Regex] - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
-    * [Regex101] - Online regex tester.
+    * [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
+    * [i Hate Regex](https://ihateregex.io/) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
+    * [Regex101](https://regex101.com/) - Online regex tester.
     * [Web Code Tools] - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
-    * [Carbon] - Create and share beautiful images of your source .
-    * [CSS Grid Generator] - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
-    * [CSS Scroll Shadows] - Adjust the controls (?) and see the CSS scroll shadows change.
-    * [CSS Shadow Generator] - Make a smooth shadow.
-    * [Haikei] - Generate unique SVG design assets.
-    transform - Transform | A polyglot web converter.
-    * [Perflink | JS Benchmarks] - JavaScript performance benchmarks you can share via URL.
+    * [Carbon](https://webcode.tools/) - Create and share beautiful images of your source .
+    * [CSS Grid Generator](https://grid.layoutit.com/) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+    * [CSS Scroll Shadows](https://css-scroll-shadows.now.sh/) - Adjust the controls (?) and see the CSS scroll shadows change.
+    * [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
+    * [Haikei](https://haikei.app/) - Generate unique SVG design assets.
+    * [transform](https://transform.tools/) - Transform | A polyglot web converter.
+    * [Perflink | JS Benchmarks](https://perf.link/) - JavaScript performance benchmarks you can share via URL.
+    <br><br>
+
+13. **ACCESSIBILITY**
+    * [Accessibility Blog](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) - Medium - Seven easy-to-implement guidelines to design a more accessible web.
+
+    * [Accessibility Blog](https://dev.to/erhannah/13-ways-to-level-up-your-site-s-accessibility-22c6) - Dev - 13 ways to level up your site's accessibility.
+    * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet) - Practical approaches to Universal Design for making your website/webapp accessible to everyone.
+    <br><br>
+
+14. **SITE ANALYZERS**
+    * [web.dev](https://github.com/iamismile/web-dev-resources/blob/main/web.dev/measure) - See how well your website performs. Then, get tips to improve your user experience.
+
+    * [Lighthouse Metrics](https://github.com/iamismile/web-dev-resources/blob/main/lighthouse-metrics.com) - Lighthouse Metrics provides easy insights for your site's performance.
+    <br><br>
+
+15. **TERMINAL FOR WINDOWS**
+    * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+    * [FluentTerminal](https://github.com/felixse/FluentTerminal)
+    * [Hyper](https://hyper.is/)
+    * [Cmder](https://cmder.net//)
+    <br><br>
+
+16. **ONLINE IDE, EDITOR**
+    * [Repl.it](https://repl.it/)
+    * [CodeSandbox](https://codesandbox.io/)
+    * [CodePen](https://codepen.io/)
+    * [JS Bin](https://jsbin.com/)
+    * [JSFiddle](https://jsfiddle.net/)
+    * [goormIDE](https://ide.goorm.io/)
+    <br><br>
+
+17. **⚡ JAVASCRIPT**
+    * [freeCodeCamp](https://www.freecodecamp.org/learn) - Best free resource to learn JavaScript interactively.
+
+    * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - Free course to learn JavaScript interactively.
+    * [JavaScript info](https://javascript.info/) - Modern JavaScript Tutorial.
+    * [JavaScripture](https://www.javascripture.com/) - JavaScripture.com is a testing ground and reference for all JavaScript APIs.
+    * [Eloquent JavaScript](https://eloquentjavascript.net/) - This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here.
+    * [JavaScript30](https://javascript30.com/) - 30 days vanilla JS coding challenge. Build 30 things in 30 days with 30 tutorials.
+    * [How JavaScript works](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+    * [JavaScript Reference By MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+    * [JavaScript Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+    * [DOM Manipulation Reference](http://youmightnotneedjquery.com/)
+    * [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
+    <br><br>
+
+18. **⚡ NODEJS**
+    * [Node.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) - Node.js Crash Course Tutorial by Net Ninja.
+
+    * [Mixu's Node book](http://book.mixu.net/node/index.html) - A book about using Node.js.
+    * [Node JS](https://nodejs.dev/learn) - Node.js original documentation.
+    * [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html) - 30 days of node, a node.js tutorial series.
+    * [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - Huge list of best practices for building node apps. Important for big projects.
+    * [The Node Way](http://thenodeway.io/) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+    * [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
+    * [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
+    * [Express.js Security Tips](https://www.freecodecamp.org/news/express-js-security-tips/) - How You Can Save and Secure Your App.
+    <br><br>
+
+19. **⚡ REACT**
+    * [React](https://reactjs.org/) - Official site documentations, tutorial.
+    * [Codecademy](https://www.codecademy.com/learn/react-101) - Free React course of Codecademy.
+    * [freeCodeCamp](https://www.freecodecamp.org/learn) - Free web development resourse, where you can also learn react.
+    * [React Tutorial](https://reactjs.org/) - React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks by Coding Addict.
+    * [React Beach Resort](https://www.youtube.com/watch?v=l0JbuMVXaTs) - React Beach Resort project by Coding Addict.
+    * [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+    * [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily with react-icons.
+    <br><br>
+
+20. **APIs**
+    * [Public APIs](https://public-apis.io/) - A collective list of more than 1000 Free Public and Open REST APIs for developers.
+
+    * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free to use fake Online REST API for testing and prototyping.
+    * [OpenWeather](https://openweathermap.org/guide) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts.
+    * [SWAPI](https://swapi.dev/) - The Star Wars API.
+    * [Quotes REST API](http://quotes.rest/) - They Said So has more than 1 million+ quotes in the database, the largest such database in the world. And Quotes API gives easy way to access the data.
+    <br><br>
+
+21. **DEVELOPER TOOLS**
+    * [Postman](https://www.postman.com/) - Postman makes API development easy. Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+
+    * [Insomnia](https://insomnia.rest/) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST.
+    * [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+    * [npm trends](https://www.npmtrends.com/) - Which NPM package should you use? Compare NPM package download stats over time. Spot trends, pick the winner.
+    * [BUNDLEPHOBIA](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
+    <br><br>
+
+22. **ONLINE LEARNING RESOURCE**
+    * [freeCodeCamp](https://www.freecodecamp.org/learn) - Learn to code at home. Build projects. Earn certifications.
+
+    * [w3schools](https://www.w3schools.com/) - The world's largest Web Developer site. Tutorials references, examples, exercies, certificates.
+    * [Codecademy](https://www.codecademy.com/learn/react-101) - Learn the technical skills you need for the job you want. As leaders in online education and learning to code.
+    * [Real Python](https://realpython.com/) - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
+    * [Study Tonight](https://www.studytonight.com/) - Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests, Video tutorials.
+    * [Programiz](https://www.programiz.com/) - Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
+    * [JavaScript info](https://javascript.info/) - The Modern JavaScript Tutorial.
+    * [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
+    * [Try Git](https://try.github.io/) - An interactive series of challenges to learn about and experiment with Git.
+    <br><br>
+
+23. **RESUME**
+    * [ResumeGenius](https://resumegenius.com/) - The only online resume builder that'll land you interviews. Create a professional resume in minutes, download, and print.
+
+    * [resume.io](https://resume.io/) - Free online resume maker, allows you to create a perfect resume in minutes. See how easy it is to write a professional resume and apply for jobs today!
+    * [Resume Now](https://www.resume-now.com/resume/builder) - It Only Takes A Few Minutes. An online resume maker shouldn't take long to use—and our free-to-use resume builder doesn't.
+    * [Canva](https://www.canva.com/create/resumes/) - With Canva's free resume builder, applying for your dream job is easy and fast. Choose from hundreds of free.
+    * [novoresume](https://novoresume.com/) - Make a perfect resume in 2020 and get your dream job using the free resume builder. Select a template. Personalize it.
+    * [RX-Resume](https://rx-resume.web.app/) - Easily build your resume.
+    <br><br>
+
+24. **OTHERS**
+    * [mailsac](https://mailsac.com/) - Disposable testing email inbox service.
+
+    * [Ethereal Email](https://ethereal.email/) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer users (but not limited to).
+    * [HTTP Status Codes](https://httpstatuses.com/) - HTTP Status Code directory, with definitions, details and helpful code references.
+    * [Play With Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker.
+    * [Tiny Helpers](https://tiny-helpers.dev/) - A collection of free single-purpose online tools for web developers.
+    * [Free for Developers](https://free-for.dev/#/) - This is a list of software and other offerings that have free tiers for developers.
+    * [Dev Resources](https://devresourc.es/) - Dev Resources has everything for your developer journey, all presented in curated lists.
+    * [Themeselection](https://themeselection.com/) - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template, HTML Themes and UI Kits to create your applications faster.
+    <br><br>
+
+25. **DEV BLOD SITES**
+    * [DEV](https://dev.to/) - A constructive and inclusive social network. Open source and radically transparent.
+
+    * [Medium](https://medium.com/) - Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+    * [Hacker News](https://github.com/iamismile/web-dev-resources/blob/main/news.ycombinator.com) - Get the latest from Hacker News!
+    * [Hacker Noon](https://hackernoon.com/) - Hacker Noon reflects the technology industry with unfettered stories and opinions written by real tech professionals.
+    * [freeCodeCamp News](https://www.freecodecamp.org/news/) - Free Code Camp community news.
+    * [Smashing Magazine](https://www.smashingmagazine.com/) - Smashing Magazine — for web designers and developers.
+    * [Hashnode](https://hashnode.com/) - Hashnode is a free content creation platform and community that allows you to publish articles on your own domain.
+    <br><br>
+
+26. **YT CHANNELS**
+    * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+    * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+    * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+    * [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+    * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+    * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+    * [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+    * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+    </span>
